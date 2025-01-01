@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Blog Platform<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning AWS<br>💬 Ask me about Frontend Design<br>⚡ Fun fact
+🔭 I’m currently working on CAPTCHA<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with Traning ML Models<br>🌱 I’m currently learning GenAI<br>💬 Ask me about Frontend Design<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
